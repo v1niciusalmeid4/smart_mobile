@@ -39,13 +39,12 @@ Demonstrar:
 
 Ao tocar em um item da lista:
 
-- Navegação para a tela de detalhes (`/product/:id`)
+- Navegação para a tela de detalhes
 - Exibe:
   - Nome
   - Descrição
   - Preço
   - Imagem principal
-  - Outras imagens (carrossel opcional, se disponíveis)
 
 ### 3. Cache Local (Isar)
 
@@ -69,5 +68,5 @@ Ao tocar em um item da lista:
 - **GetX** (estado, injeção de dependência, rotas)
 - **Dio** (HTTP client)
 - **Isar** (banco de dados local)
-- **Flutter Hooks / Widgets básicos** (ListView, Image, etc.) – conforme necessidade
+- **Flutter Hooks / Widgets básicos** (ListView, Image, etc.)
 
